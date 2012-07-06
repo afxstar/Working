@@ -1,0 +1,6 @@
+谢志华：	GPIO，EXTI，RCC，PWR，BKP，DMA
+魏霄: 		RTC, USART, TIM
+熊建波：	I2C
+李杰旭：	IWDG，WWDG，DBGMCU
+袁作松: 	ADC
+曾强：		SPI
